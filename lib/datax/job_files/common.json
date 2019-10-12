@@ -1,0 +1,14 @@
+{
+  "job": {
+    "content": [
+      {
+        "reader": $reader_config,
+        "writer": $writer_config
+      }
+    ],
+    "setting": {
+      "speed": $speed_config,
+      "errorLimit": $error_limit_config,
+    }
+  }
+}
